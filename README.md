@@ -9,7 +9,7 @@ Vue-cli
 
 ## Built With
 
-* [vue] - The javascript framework used
+* [Vue.js] - The javascript framework used
 
 ## Contributing
 

@@ -7,10 +7,6 @@ Vuex-State Management tutorial
 
 Vue-cli
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [vue] - The javascript framework used
